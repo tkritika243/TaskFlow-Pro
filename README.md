@@ -9,7 +9,6 @@ A modern and user-friendly task management web application designed to help user
 💻 **GitHub Repository:** [TaskFlow-Pro](https://github.com/tkritika243/TaskFlow-Pro)
 
 ---
-## 📸 Application Screenshots
 
 ## 📸 Application Screenshots
 
@@ -19,6 +18,8 @@ A modern and user-friendly task management web application designed to help user
 ### 📊 Dashboard
 ![Dashboard](screenshots/dashboard.png)
 
+### 📝 Task Management
+![Task Management](screenshots/tasks.png)
 
 ---
 
